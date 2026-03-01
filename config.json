@@ -1,0 +1,14 @@
+{
+  "discord_token": "MTQ3NTMwODYwNzEwODE1NzQ3MA.GWbpMW.aaPCNL9mXfbKD8HVYZGPQxyCdsWdrp6UnDBEHU",
+  "target_id": 250000000,
+  "start_id": 1,
+  "concurrency": 500,
+  "request_timeout": 10,
+  "retry_limit": 3,
+  "forbidden_pause_seconds": 180,
+  "clan_tag_batch_size": 10,
+  "valid_ids_file": "data/valid_ids.jsonl",
+  "clan_tags_file": "data/clan_tags.jsonl",
+  "checkpoint_file": "data/checkpoint.json",
+  "clantag_checkpoint_file": "data/clantag_checkpoint.json"
+}
